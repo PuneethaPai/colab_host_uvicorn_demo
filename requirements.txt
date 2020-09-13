@@ -1,0 +1,2 @@
+uvicorn>=0
+fastapi>=0
